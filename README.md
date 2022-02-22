@@ -1,2 +1,2 @@
-# neurodev
+# NeuroDev
 Repository for NeuroDev analyses
