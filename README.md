@@ -1,2 +1,2 @@
 # NeuroDev
-Repository for NeuroDev phenotype-genotype analyses. 
+Repository for NeuroDev Wave 1 analyses. 
